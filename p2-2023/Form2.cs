@@ -21,6 +21,7 @@ namespace p2_2023
         {
 
             //c3215
+            List<int> list = new List<int>();
             //C546546
             //C3364
             //3047
