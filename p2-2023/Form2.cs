@@ -39,6 +39,7 @@ namespace p2_2023
             //c3184
             list.Add(84);
             //c3216
+            list.Add(31);
             //c3366
             list.Add(342);
 
