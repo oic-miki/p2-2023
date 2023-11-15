@@ -24,6 +24,10 @@ namespace p2_2023
             //C546546
             //C3364
             list.Add(3);
+            list.Add(4);
+            list.Add(5);
+            list.Add(6);
+            list.Add(7);
             //3047
             //c3050
             //c3283
