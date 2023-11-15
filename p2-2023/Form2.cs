@@ -19,6 +19,7 @@ namespace p2_2023
 
         private void p2()
         {
+
             //c3215
             List<int> list = new List<int>();
             //C546546
@@ -29,8 +30,10 @@ namespace p2_2023
             list.Add(6);
             list.Add(7);
             //3047
+            list.Add(12);
             //c3050
             //c3283
+            list.Add(567);
             //c3184
             //c3216
             list.Add(8);
