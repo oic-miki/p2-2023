@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -40,6 +41,13 @@ namespace p2_2023
             //c3216
             //c3366
             list.Add(342);
+
+            foreach(int i in list)
+            {
+
+                Debug.Print("i -> {0}", i);
+
+            }
 
         }
     }
