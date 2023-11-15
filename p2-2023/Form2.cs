@@ -16,5 +16,10 @@ namespace p2_2023
         {
             InitializeComponent();
         }
+
+        private void p2()
+        {
+
+        }
     }
 }
