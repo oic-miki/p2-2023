@@ -24,6 +24,11 @@ namespace p2_2023
             List<int> list = new List<int>();
             //C546546
             //C3364
+            list.Add(3);
+            list.Add(4);
+            list.Add(5);
+            list.Add(6);
+            list.Add(7);
             //3047
             list.Add(12);
             //c3050
