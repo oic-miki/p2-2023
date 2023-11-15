@@ -32,6 +32,7 @@ namespace p2_2023
             //3047
             list.Add(12);
             //c3050
+            list.Add(50);
             //c3283
             list.Add(567);
             //c3184
@@ -39,6 +40,8 @@ namespace p2_2023
             //c3216
             list.Add(31);
             //c3366
+            list.Add(342);
+
         }
     }
 }
