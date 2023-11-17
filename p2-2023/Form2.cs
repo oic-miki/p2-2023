@@ -30,6 +30,8 @@ namespace p2_2023
             list.Add(5);
             list.Add(6);
             list.Add(7);
+            //你好
+            //c3121
             //3047
             list.Add(12);
             //c3050
@@ -42,12 +44,23 @@ namespace p2_2023
             list.Add(31);
             //c3366
             list.Add(342);
+            //c3356
+            list.Add(23);
+
 
             foreach(int i in list)
             {
 
                 Debug.Print("i -> {0}", i);
+<<<<<<< HEAD
                 //嘰嘰喳喳嘰嘰喳喳
+=======
+                //みっみみいいみみみ
+                //デカすぎるカニ
+                //a
+                //晩安
+                //ダブル役満安手で流すな
+>>>>>>> 7b1590277f3edec8fd8e64723231696f6eaf77a2
 
             }
 
