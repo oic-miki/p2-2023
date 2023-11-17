@@ -102,6 +102,7 @@ namespace p2_2023
     public void c3283()
     {
             //なか卯の親子丼うまい
+            //そこに愛はあるんか？
     }
     public void c3184()
     {
