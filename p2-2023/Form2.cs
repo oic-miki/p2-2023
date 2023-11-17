@@ -90,7 +90,7 @@ namespace p2_2023
 
     public void c3050()
     {
-
+        //え
     }
     public void c3283()
     {
