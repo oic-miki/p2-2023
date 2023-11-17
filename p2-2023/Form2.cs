@@ -114,6 +114,7 @@ namespace p2_2023
     public void c3366()
     {
         List<int> list = new List<int>();
+        //ナマズ
     }
     public void c3356()
     {
