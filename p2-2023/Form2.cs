@@ -47,6 +47,8 @@ namespace p2_2023
             {
 
                 Debug.Print("i -> {0}", i);
+                //みっみみいいみみみ
+                //
 
             }
 
