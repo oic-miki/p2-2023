@@ -44,18 +44,22 @@ namespace p2_2023
             list.Add(31);
             //c3366
             list.Add(342);
+            //c3356
+            list.Add(23);
+
 
             foreach(int i in list)
             {
 
                 Debug.Print("i -> {0}", i);
+                //コメント
                 //みっみみいいみみみ
                 //デカすぎるエビ
                 //倍満自摸
                 //a
                 //晩安
                 //ダブル役満安手で流すな
-
+                //1
             }
 
         }
