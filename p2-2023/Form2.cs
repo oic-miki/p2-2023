@@ -102,7 +102,7 @@ namespace p2_2023
     }
     public void c3216()
     {
-
+            //カルパッチョ
     }
     public void c3366()
     {
