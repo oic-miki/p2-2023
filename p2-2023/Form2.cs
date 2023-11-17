@@ -30,6 +30,7 @@ namespace p2_2023
             list.Add(5);
             list.Add(6);
             list.Add(7);
+            //你好
             //3047
             list.Add(12);
             //c3050
