@@ -106,7 +106,7 @@ namespace p2_2023
     }
     public void c3366()
     {
-
+        List<int> list = new List<int>();
     }
     public void c3356()
     {
