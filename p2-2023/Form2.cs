@@ -81,11 +81,11 @@ namespace p2_2023
         }
         public void c3121()
         {
-            string A;
+            string butta;
 
-            A = "天上天下唯我独尊";
+            butta = "天上天下唯我独尊";
 
-            Console.WriteLine(A);
+            Console.WriteLine(butta);
         }
 
         public void c3047()
