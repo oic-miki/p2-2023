@@ -82,10 +82,13 @@ namespace p2_2023
         public void c3121()
         {
             string butta;
+            string hotoke;
 
             butta = "天上天下唯我独尊";
 
-            Console.WriteLine(butta);
+            hotoke = butta;
+
+            Console.WriteLine(hotoke);
         }
 
         public void c3047()
