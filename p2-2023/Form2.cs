@@ -79,6 +79,7 @@ namespace p2_2023
         public void C3364()
         {
             //すきやおいしい
+            Console.WriteLine("まるげんはカルパッチョが好き");
         }
         public void c3121()
         {
@@ -102,10 +103,11 @@ namespace p2_2023
     public void c3283()
     {
             //なか卯の親子丼うまい
+            //そこに愛はあるんか？
     }
     public void c3184()
     {
-
+            //HelloWorld
     }
     public void c3216()
     {
