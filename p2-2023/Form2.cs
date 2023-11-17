@@ -85,6 +85,7 @@ namespace p2_2023
 
         public void c3047()
             {
+            // ぴ
             }
 
     public void c3050()
