@@ -5,6 +5,7 @@ using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -86,7 +87,11 @@ namespace p2_2023
         }
         public void c3121()
         {
+            string A;
 
+            A = "天上天下唯我独尊";
+
+            Console.WriteLine(A);
         }
 
         public void c3047()
