@@ -77,7 +77,12 @@ namespace p2_2023
         }
         public void C3364()
         {
-
+            List<int> list = new List<int>();
+            list.Add(3);
+            list.Add(4);
+            list.Add(5);
+            list.Add(6);
+            list.Add(7);
         }
         public void c3121()
         {
@@ -86,7 +91,9 @@ namespace p2_2023
 
         public void c3047()
             {
-            }
+            // ぴ
+            Console.WriteLine("ぴ");
+        }
 
     public void c3050()
     {
@@ -102,7 +109,7 @@ namespace p2_2023
     }
     public void c3216()
     {
-
+            //カルパッチョ
     }
     public void c3366()
     {
@@ -113,5 +120,10 @@ namespace p2_2023
 
     }
 
-}
+        public void C3357()
+        {
+
+        }
+
+    }
 }
