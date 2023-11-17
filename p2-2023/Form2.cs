@@ -77,12 +77,7 @@ namespace p2_2023
         }
         public void C3364()
         {
-            List<int> list = new List<int>();
-            list.Add(3);
-            list.Add(4);
-            list.Add(5);
-            list.Add(6);
-            list.Add(7);
+            //すきやおいしい
         }
         public void c3121()
         {
