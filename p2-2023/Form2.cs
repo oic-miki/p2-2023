@@ -5,6 +5,7 @@ using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -76,24 +77,32 @@ namespace p2_2023
         }
         public void C3364()
         {
-
+            //すきやおいしい
+            Console.WriteLine("まるげんはカルパッチョが好き");
         }
         public void c3121()
         {
+            string butta;
 
+            butta = "天上天下唯我独尊";
+
+            Console.WriteLine(butta);
         }
 
         public void c3047()
             {
-            }
+            // ぴ
+            Console.WriteLine("ぴ");
+        }
 
     public void c3050()
     {
-
+        //え
     }
     public void c3283()
     {
-
+            //なか卯の親子丼うまい
+            //そこに愛はあるんか？
     }
     public void c3184()
     {
@@ -101,7 +110,7 @@ namespace p2_2023
     }
     public void c3216()
     {
-
+            //カルパッチョ
     }
     public void c3366()
     {
@@ -112,5 +121,10 @@ namespace p2_2023
 
     }
 
-}
+        public void C3357()
+        {
+
+        }
+
+    }
 }
