@@ -23,7 +23,7 @@ namespace p2_2023
 
             //c3215
             List<int> list = new List<int>();
-            //C546546
+            //C3357
             //C3364
             list.Add(3);
             list.Add(4);
@@ -48,20 +48,69 @@ namespace p2_2023
             list.Add(23);
 
 
-            foreach(int i in list)
+            foreach (int i in list)
             {
 
                 Debug.Print("i -> {0}", i);
-                //コメント
+                //ԅ(¯﹃¯ԅ)
                 //みっみみいいみみみ
-                //デカすぎるエビ
-                //倍満自摸
+                //デカすぎるカニ、デカニ
                 //a
+                //ji
+                //松屋の富士山麻婆豆腐ガチ美味い
                 //晩安
+                //テスト
                 //ダブル役満安手で流すな
+               //↑よく言った！！！！
+                //T1WIN
+                //フハハハハハ
+                //ナスとベーコンのアラビアータ
+                //スマトラ島
+
                 //1
             }
+        }
+        public void c3215()
+        {
 
         }
+        public void C3364()
+        {
+
+        }
+        public void c3121()
+        {
+
+        }
+
+        public void c3047()
+            {
+            }
+
+    public void c3050()
+    {
+
     }
+    public void c3283()
+    {
+
+    }
+    public void c3184()
+    {
+
+    }
+    public void c3216()
+    {
+
+    }
+    public void c3366()
+    {
+
+    }
+    public void c3356()
+    {
+
+    }
+
+}
 }
