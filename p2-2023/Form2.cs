@@ -115,6 +115,7 @@ namespace p2_2023
     {
         List<int> list = new List<int>();
         //ナマズ
+        //お～いお茶
     }
     public void c3356()
     {
