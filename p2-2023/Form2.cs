@@ -48,7 +48,7 @@ namespace p2_2023
             list.Add(23);
 
 
-            foreach(int i in list)
+            foreach (int i in list)
             {
 
                 Debug.Print("i -> {0}", i);
@@ -62,5 +62,47 @@ namespace p2_2023
             }
 
         }
+        public void c3215()
+        {
+
+        }
+        public void C3364()
+        {
+
+        }
+        public void c3121()
+        {
+
+        }
+
+        public void c3047()
+            {
+            }
+
+    public void c3050()
+    {
+
     }
+    public void c3283()
+    {
+
+    }
+    public void c3184()
+    {
+
+    }
+    public void c3216()
+    {
+
+    }
+    public void c3366()
+    {
+
+    }
+    public void c3356()
+    {
+
+    }
+
+}
 }
