@@ -91,7 +91,8 @@ namespace p2_2023
         public void c3047()
             {
             // ぴ
-            }
+            Console.WriteLine("ぴ");
+        }
 
     public void c3050()
     {
@@ -107,7 +108,7 @@ namespace p2_2023
     }
     public void c3216()
     {
-
+            //カルパッチョ
     }
     public void c3366()
     {
