@@ -78,6 +78,7 @@ namespace p2_2023
         public void C3364()
         {
             //すきやおいしい
+            Console.WriteLine("まるげんはカルパッチョが好き");
         }
         public void c3121()
         {
